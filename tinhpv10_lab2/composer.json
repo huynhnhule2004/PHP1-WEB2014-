@@ -1,0 +1,9 @@
+{
+    "name": "pc123456/lab2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
